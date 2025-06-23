@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain_groq
+duckduckgo-search
+newspaper3k
+faiss-cpu
+python-dotenv
+PyPDF2
+sentence-transformers
+nest_asyncio
